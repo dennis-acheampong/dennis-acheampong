@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I'm currently learning Git and version control
-- 💻 I'm interested in your cloud computing
+- 💻 I'm interested in  cloud computing
 - 📫 How to reach me: dennisacheampong2@gmail.com
 
 ## Projects
